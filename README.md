@@ -52,7 +52,7 @@ This is a repository for my personal portfolio website built using Nuxt.js. This
 
 1. **Clone this repository:**
 ```bash
-git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
+git clone https://github.com/DavinGM/Portofolio.git
 ```
 
 2. **Enter the directory:**
