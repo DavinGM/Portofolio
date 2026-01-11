@@ -1,7 +1,7 @@
 # Site Portfolio from Nuxt
 
 <p align="center"> 
-<img src="https://imgs.search.brave.com/z1Jq1XjssFGzEvMeLlzm9FMojH_63t9jJYg8ZOV76Ok/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/LnN2Z2Nkbi5jb20v/bG9nb3MvbnV4dC5w/bmc" alt="Portfolio Banner" width="100%">
+<img src="https://imgs.search.brave.com/4VQUhYrzP-dV4ZVnAcY3UXx2NOinz15ISNP95im4_ik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL04vbnV4dC0y/MDIzLWxvZ28tN0Q5/MzlFMzI1MS1zZWVr/bG9nby5jb20ucG5n" >
 </p>
 
 <p align="center"> 
